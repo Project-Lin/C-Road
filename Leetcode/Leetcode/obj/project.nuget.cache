@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< Updated upstream
-  "dgSpecHash": "5txYtOGqN8L3C/3yJchemweJ5lJTWFZBem2obZd0FZKvGd8KLISPz6v7T6RgigxaR1XHKSSr+d6cYO4U3fWb/Q==",
-  "success": true,
-  "projectFilePath": "D:\\WORK\\C#學習\\基礎\\C#Road\\Leetcode\\Leetcode\\Leetcode.csproj",
-=======
   "dgSpecHash": "RKl5fGAyaahwsDVKSdu7sgFNVTemHFpx1ArgB525SBZ1/LY7GOCXG/oyLxB1HRxnOl8WuIB6TTwm73dDrem9sQ==",
   "success": true,
   "projectFilePath": "C:\\C_Sharp\\C-Road\\Leetcode\\Leetcode\\Leetcode.csproj",
->>>>>>> Stashed changes
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "讀取快取檔案 C:\\C_Sharp\\C-Road\\Leetcode\\Leetcode\\obj\\project.nuget.cache 時發生問題: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

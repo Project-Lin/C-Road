@@ -9,16 +9,15 @@ namespace Leetcode
         static void Main(string[] args)
         {
 
-            Class1 a=new Class1();
-            int[] b = a.TwoSum([-1,-2, -3,-4,-5], -8);
+            _13_RomanToInteger a = new _13_RomanToInteger();
 
-            foreach (int i in b)
-            {
-                Console.WriteLine(i);
-            }
-           
-            
-            
+
+            a.romanToInt("IX");
+            Console.WriteLine(a.romanToInt("IX"));
+
+
+
+
         }
         
     }
