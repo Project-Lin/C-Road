@@ -14,19 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< Updated upstream
-      "projectUniqueName": "D:\\WORK\\C#學習\\基礎\\C#Road\\Leetcode\\Leetcode\\Leetcode.csproj",
-      "projectName": "Leetcode",
-      "projectPath": "D:\\WORK\\C#學習\\基礎\\C#Road\\Leetcode\\Leetcode\\Leetcode.csproj",
+      "projectUniqueName": "C:\\C_Sharp\\C-Road\\Test\\Test\\Test.csproj",
+      "projectName": "Test",
+      "projectPath": "C:\\C_Sharp\\C-Road\\Test\\Test\\Test.csproj",
       "packagesPath": "C:\\Users\\s1120\\.nuget\\packages\\",
-      "outputPath": "D:\\WORK\\C#學習\\基礎\\C#Road\\Leetcode\\Leetcode\\obj\\",
-=======
-      "projectUniqueName": "C:\\C_Sharp\\C-Road\\Leetcode\\Leetcode\\Leetcode.csproj",
-      "projectName": "Leetcode",
-      "projectPath": "C:\\C_Sharp\\C-Road\\Leetcode\\Leetcode\\Leetcode.csproj",
-      "packagesPath": "C:\\Users\\s1120\\.nuget\\packages\\",
-      "outputPath": "C:\\C_Sharp\\C-Road\\Leetcode\\Leetcode\\obj\\",
->>>>>>> Stashed changes
+      "outputPath": "C:\\C_Sharp\\C-Road\\Test\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

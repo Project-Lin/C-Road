@@ -1,8 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\WORK\\C#\u5B78\u7FD2\\\u57FA\u790E\\C#Road\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\",
+  "WorkspaceRootPath": "C:\\C_Sharp\\C-Road\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\",
   "Documents": [
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{F7B6B332-516F-4F8B-A3F3-82D3402FA37B}|02_WinForm\\02_WinForm.csproj|d:\\work\\c#\u5B78\u7FD2\\\u57FA\u790E\\c#road\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\02_winform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7B6B332-516F-4F8B-A3F3-82D3402FA37B}|02_WinForm\\02_WinForm.csproj|solutionrelative:02_winform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -20,6 +21,9 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{878010FD-BD5D-4DBA-8ACF-8252BBCDAE55}|\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230.csproj|d:\\work\\c#\u5B78\u7FD2\\\u57FA\u790E\\c#road\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+      "AbsoluteMoniker": "D:0:0:{878010FD-BD5D-4DBA-8ACF-8252BBCDAE55}|\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230.csproj|c:\\c_sharp\\c-road\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> Stashed changes
       "RelativeMoniker": "D:0:0:{878010FD-BD5D-4DBA-8ACF-8252BBCDAE55}|\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230.csproj|solutionrelative:\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,6 +40,7 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+<<<<<<< Updated upstream
               "DocumentMoniker": "D:\\WORK\\C#\u5B78\u7FD2\\\u57FA\u790E\\C#Road\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\02_WinForm\\Program.cs",
               "RelativeDocumentMoniker": "02_WinForm\\Program.cs",
               "ToolTip": "D:\\WORK\\C#\u5B78\u7FD2\\\u57FA\u790E\\C#Road\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\02_WinForm\\Program.cs",
@@ -87,10 +92,17 @@
               "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\WORK\\C#\u5B78\u7FD2\\\u57FA\u790E\\C#Road\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\Program.cs",
+=======
+              "DocumentMoniker": "C:\\C_Sharp\\C-Road\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\Program.cs",
+>>>>>>> Stashed changes
               "RelativeDocumentMoniker": "\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\Program.cs",
-              "ToolTip": "D:\\WORK\\C#\u5B78\u7FD2\\\u57FA\u790E\\C#Road\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\Program.cs",
+              "ToolTip": "C:\\C_Sharp\\C-Road\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\Program.cs",
               "RelativeToolTip": "\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\Program.cs",
+<<<<<<< Updated upstream
               "ViewState": "AQIAAAIAAAAAAAAAAAA7wBMAAAAJAAAA",
+=======
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+>>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-22T06:05:45.567Z",
               "EditorCaption": ""

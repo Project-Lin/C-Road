@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+<<<<<<< Updated upstream
             Father f = new Father();
 
             //tips:錯誤時可以用alt+enter調出提示
@@ -17,6 +18,11 @@
             Son s1 = new Son();
             Father f1 =new Father();
             s1 = (Son)f1;
+=======
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine(123);
+            Console.WriteLine();
+>>>>>>> Stashed changes
         }
 
 
