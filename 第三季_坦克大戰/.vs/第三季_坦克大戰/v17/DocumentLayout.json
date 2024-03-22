@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WORK\\C#\u5B78\u7FD2\\\u57FA\u790E\\C#Road\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{878010FD-BD5D-4DBA-8ACF-8252BBCDAE55}|\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230.csproj|d:\\work\\c#\u5B78\u7FD2\\\u57FA\u790E\\c#road\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{878010FD-BD5D-4DBA-8ACF-8252BBCDAE55}|\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230.csproj|solutionrelative:\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WORK\\C#\u5B78\u7FD2\\\u57FA\u790E\\C#Road\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\Program.cs",
+              "RelativeDocumentMoniker": "\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\Program.cs",
+              "ToolTip": "D:\\WORK\\C#\u5B78\u7FD2\\\u57FA\u790E\\C#Road\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\Program.cs",
+              "RelativeToolTip": "\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T06:05:45.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
