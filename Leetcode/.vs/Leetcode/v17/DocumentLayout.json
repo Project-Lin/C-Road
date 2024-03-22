@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\WORK\\C#\u5B78\u7FD2\\\u57FA\u790E\\Leetcode\\",
+  "WorkspaceRootPath": "D:\\WORK\\C#\u5B78\u7FD2\\\u57FA\u790E\\C#Road\\Leetcode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D2D5490-1BE4-4110-B216-2D9E6EE33962}|Leetcode\\Leetcode.csproj|d:\\work\\c#\u5B78\u7FD2\\\u57FA\u790E\\leetcode\\leetcode\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D2D5490-1BE4-4110-B216-2D9E6EE33962}|Leetcode\\Leetcode.csproj|d:\\work\\c#\u5B78\u7FD2\\\u57FA\u790E\\c#road\\leetcode\\leetcode\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D2D5490-1BE4-4110-B216-2D9E6EE33962}|Leetcode\\Leetcode.csproj|solutionrelative:leetcode\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D2D5490-1BE4-4110-B216-2D9E6EE33962}|Leetcode\\Leetcode.csproj|d:\\work\\c#\u5B78\u7FD2\\\u57FA\u790E\\leetcode\\leetcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D2D5490-1BE4-4110-B216-2D9E6EE33962}|Leetcode\\Leetcode.csproj|d:\\work\\c#\u5B78\u7FD2\\\u57FA\u790E\\c#road\\leetcode\\leetcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D2D5490-1BE4-4110-B216-2D9E6EE33962}|Leetcode\\Leetcode.csproj|solutionrelative:leetcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\WORK\\C#\u5B78\u7FD2\\\u57FA\u790E\\Leetcode\\Leetcode\\Class1.cs",
+              "DocumentMoniker": "D:\\WORK\\C#\u5B78\u7FD2\\\u57FA\u790E\\C#Road\\Leetcode\\Leetcode\\Class1.cs",
               "RelativeDocumentMoniker": "Leetcode\\Class1.cs",
-              "ToolTip": "D:\\WORK\\C#\u5B78\u7FD2\\\u57FA\u790E\\Leetcode\\Leetcode\\Class1.cs",
+              "ToolTip": "D:\\WORK\\C#\u5B78\u7FD2\\\u57FA\u790E\\C#Road\\Leetcode\\Leetcode\\Class1.cs",
               "RelativeToolTip": "Leetcode\\Class1.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAA7wBUAAAAaAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA2wA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-21T15:36:10.85Z",
               "EditorCaption": ""
@@ -37,13 +37,14 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\WORK\\C#\u5B78\u7FD2\\\u57FA\u790E\\Leetcode\\Leetcode\\Program.cs",
+              "DocumentMoniker": "D:\\WORK\\C#\u5B78\u7FD2\\\u57FA\u790E\\C#Road\\Leetcode\\Leetcode\\Program.cs",
               "RelativeDocumentMoniker": "Leetcode\\Program.cs",
-              "ToolTip": "D:\\WORK\\C#\u5B78\u7FD2\\\u57FA\u790E\\Leetcode\\Leetcode\\Program.cs",
-              "RelativeToolTip": "Leetcode\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "ToolTip": "D:\\WORK\\C#\u5B78\u7FD2\\\u57FA\u790E\\C#Road\\Leetcode\\Leetcode\\Program.cs*",
+              "RelativeToolTip": "Leetcode\\Program.cs*",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T15:03:28.177Z"
+              "WhenOpened": "2024-03-21T15:03:28.177Z",
+              "EditorCaption": ""
             }
           ]
         }

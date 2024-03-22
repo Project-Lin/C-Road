@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LpAZn0zLHvRfKToDp9YtUpYG3EznBI0+J2i8vrSxJPEOTKPIRH9TXNtRhXGvQKVR5123ycScd5EZTNs51qvCGg==",
+  "dgSpecHash": "5txYtOGqN8L3C/3yJchemweJ5lJTWFZBem2obZd0FZKvGd8KLISPz6v7T6RgigxaR1XHKSSr+d6cYO4U3fWb/Q==",
   "success": true,
-  "projectFilePath": "D:\\WORK\\C#學習\\基礎\\Leetcode\\Leetcode\\Leetcode.csproj",
+  "projectFilePath": "D:\\WORK\\C#學習\\基礎\\C#Road\\Leetcode\\Leetcode\\Leetcode.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

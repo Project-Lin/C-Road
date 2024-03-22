@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("第三季_坦克大戰")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ebe98d8d9c70e2b1e6dffa9224671ffc7658f17")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ae9182ee17172370fe369821c077323aba03eec")]
 [assembly: System.Reflection.AssemblyProductAttribute("第三季_坦克大戰")]
 [assembly: System.Reflection.AssemblyTitleAttribute("第三季_坦克大戰")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

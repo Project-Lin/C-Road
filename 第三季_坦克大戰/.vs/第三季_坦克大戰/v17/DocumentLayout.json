@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "D:\\WORK\\C#\u5B78\u7FD2\\\u57FA\u790E\\C#Road\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F7B6B332-516F-4F8B-A3F3-82D3402FA37B}|02_WinForm\\02_WinForm.csproj|d:\\work\\c#\u5B78\u7FD2\\\u57FA\u790E\\c#road\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\02_winform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7B6B332-516F-4F8B-A3F3-82D3402FA37B}|02_WinForm\\02_WinForm.csproj|solutionrelative:02_winform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7B6B332-516F-4F8B-A3F3-82D3402FA37B}|02_WinForm\\02_WinForm.csproj|d:\\work\\c#\u5B78\u7FD2\\\u57FA\u790E\\c#road\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\02_winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7B6B332-516F-4F8B-A3F3-82D3402FA37B}|02_WinForm\\02_WinForm.csproj|solutionrelative:02_winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7B6B332-516F-4F8B-A3F3-82D3402FA37B}|02_WinForm\\02_WinForm.csproj|d:\\work\\c#\u5B78\u7FD2\\\u57FA\u790E\\c#road\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\02_winform\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{F7B6B332-516F-4F8B-A3F3-82D3402FA37B}|02_WinForm\\02_WinForm.csproj|solutionrelative:02_winform\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7299F454-64CD-4C35-8341-9CC1D8DF4C4E}|01_\u591A\u7DDA\u7A0B\\01_\u591A\u7DDA\u7A0B.csproj|d:\\work\\c#\u5B78\u7FD2\\\u57FA\u790E\\c#road\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\01_\u591A\u7DDA\u7A0B\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7299F454-64CD-4C35-8341-9CC1D8DF4C4E}|01_\u591A\u7DDA\u7A0B\\01_\u591A\u7DDA\u7A0B.csproj|solutionrelative:01_\u591A\u7DDA\u7A0B\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{878010FD-BD5D-4DBA-8ACF-8252BBCDAE55}|\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230.csproj|d:\\work\\c#\u5B78\u7FD2\\\u57FA\u790E\\c#road\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{878010FD-BD5D-4DBA-8ACF-8252BBCDAE55}|\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230.csproj|solutionrelative:\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -20,11 +36,61 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WORK\\C#\u5B78\u7FD2\\\u57FA\u790E\\C#Road\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\02_WinForm\\Program.cs",
+              "RelativeDocumentMoniker": "02_WinForm\\Program.cs",
+              "ToolTip": "D:\\WORK\\C#\u5B78\u7FD2\\\u57FA\u790E\\C#Road\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\02_WinForm\\Program.cs",
+              "RelativeToolTip": "02_WinForm\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T09:42:44.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\WORK\\C#\u5B78\u7FD2\\\u57FA\u790E\\C#Road\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\02_WinForm\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "02_WinForm\\Properties\\Resources.resx",
+              "ToolTip": "D:\\WORK\\C#\u5B78\u7FD2\\\u57FA\u790E\\C#Road\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\02_WinForm\\Properties\\Resources.resx",
+              "RelativeToolTip": "02_WinForm\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-22T09:43:47.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "D:\\WORK\\C#\u5B78\u7FD2\\\u57FA\u790E\\C#Road\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\02_WinForm\\Form1.cs",
+              "RelativeDocumentMoniker": "02_WinForm\\Form1.cs",
+              "ToolTip": "D:\\WORK\\C#\u5B78\u7FD2\\\u57FA\u790E\\C#Road\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\02_WinForm\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "02_WinForm\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T09:42:30.664Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WORK\\C#\u5B78\u7FD2\\\u57FA\u790E\\C#Road\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\01_\u591A\u7DDA\u7A0B\\Program.cs",
+              "RelativeDocumentMoniker": "01_\u591A\u7DDA\u7A0B\\Program.cs",
+              "ToolTip": "D:\\WORK\\C#\u5B78\u7FD2\\\u57FA\u790E\\C#Road\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\01_\u591A\u7DDA\u7A0B\\Program.cs",
+              "RelativeToolTip": "01_\u591A\u7DDA\u7A0B\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T08:59:53.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\WORK\\C#\u5B78\u7FD2\\\u57FA\u790E\\C#Road\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\Program.cs",
               "RelativeDocumentMoniker": "\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\Program.cs",
               "ToolTip": "D:\\WORK\\C#\u5B78\u7FD2\\\u57FA\u790E\\C#Road\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\Program.cs",
               "RelativeToolTip": "\u7B2C\u4E09\u5B63_\u5766\u514B\u5927\u6230\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAAAAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA7wBMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-22T06:05:45.567Z",
               "EditorCaption": ""

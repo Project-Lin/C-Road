@@ -1,0 +1,9 @@
+D:\WORK\C#學習\基礎\C#Road\第三季_坦克大戰\02_WinForm\bin\Debug\02_WinForm.exe.config
+D:\WORK\C#學習\基礎\C#Road\第三季_坦克大戰\02_WinForm\bin\Debug\02_WinForm.exe
+D:\WORK\C#學習\基礎\C#Road\第三季_坦克大戰\02_WinForm\bin\Debug\02_WinForm.pdb
+D:\WORK\C#學習\基礎\C#Road\第三季_坦克大戰\02_WinForm\obj\Debug\02_WinForm.csproj.AssemblyReference.cache
+D:\WORK\C#學習\基礎\C#Road\第三季_坦克大戰\02_WinForm\obj\Debug\_02_WinForm.Properties.Resources.resources
+D:\WORK\C#學習\基礎\C#Road\第三季_坦克大戰\02_WinForm\obj\Debug\02_WinForm.csproj.GenerateResource.cache
+D:\WORK\C#學習\基礎\C#Road\第三季_坦克大戰\02_WinForm\obj\Debug\02_WinForm.csproj.CoreCompileInputs.cache
+D:\WORK\C#學習\基礎\C#Road\第三季_坦克大戰\02_WinForm\obj\Debug\02_WinForm.exe
+D:\WORK\C#學習\基礎\C#Road\第三季_坦克大戰\02_WinForm\obj\Debug\02_WinForm.pdb
