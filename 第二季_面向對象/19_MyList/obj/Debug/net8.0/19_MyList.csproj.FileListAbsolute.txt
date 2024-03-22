@@ -1,0 +1,14 @@
+D:\WORK\C#學習\基礎\第二季_面向對象\19_MyList\bin\Debug\net8.0\19_MyList.exe
+D:\WORK\C#學習\基礎\第二季_面向對象\19_MyList\bin\Debug\net8.0\19_MyList.deps.json
+D:\WORK\C#學習\基礎\第二季_面向對象\19_MyList\bin\Debug\net8.0\19_MyList.runtimeconfig.json
+D:\WORK\C#學習\基礎\第二季_面向對象\19_MyList\bin\Debug\net8.0\19_MyList.dll
+D:\WORK\C#學習\基礎\第二季_面向對象\19_MyList\bin\Debug\net8.0\19_MyList.pdb
+D:\WORK\C#學習\基礎\第二季_面向對象\19_MyList\obj\Debug\net8.0\19_MyList.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\C#學習\基礎\第二季_面向對象\19_MyList\obj\Debug\net8.0\19_MyList.AssemblyInfoInputs.cache
+D:\WORK\C#學習\基礎\第二季_面向對象\19_MyList\obj\Debug\net8.0\19_MyList.AssemblyInfo.cs
+D:\WORK\C#學習\基礎\第二季_面向對象\19_MyList\obj\Debug\net8.0\19_MyList.csproj.CoreCompileInputs.cache
+D:\WORK\C#學習\基礎\第二季_面向對象\19_MyList\obj\Debug\net8.0\19_MyList.dll
+D:\WORK\C#學習\基礎\第二季_面向對象\19_MyList\obj\Debug\net8.0\refint\19_MyList.dll
+D:\WORK\C#學習\基礎\第二季_面向對象\19_MyList\obj\Debug\net8.0\19_MyList.pdb
+D:\WORK\C#學習\基礎\第二季_面向對象\19_MyList\obj\Debug\net8.0\19_MyList.genruntimeconfig.cache
+D:\WORK\C#學習\基礎\第二季_面向對象\19_MyList\obj\Debug\net8.0\ref\19_MyList.dll

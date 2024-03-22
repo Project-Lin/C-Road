@@ -1,0 +1,14 @@
+D:\WORK\C#學習\基礎\Leetcode\Leetcode\obj\Debug\net8.0\Leetcode.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\C#學習\基礎\Leetcode\Leetcode\obj\Debug\net8.0\Leetcode.AssemblyInfoInputs.cache
+D:\WORK\C#學習\基礎\Leetcode\Leetcode\obj\Debug\net8.0\Leetcode.AssemblyInfo.cs
+D:\WORK\C#學習\基礎\Leetcode\Leetcode\obj\Debug\net8.0\Leetcode.csproj.CoreCompileInputs.cache
+D:\WORK\C#學習\基礎\Leetcode\Leetcode\bin\Debug\net8.0\Leetcode.exe
+D:\WORK\C#學習\基礎\Leetcode\Leetcode\bin\Debug\net8.0\Leetcode.deps.json
+D:\WORK\C#學習\基礎\Leetcode\Leetcode\bin\Debug\net8.0\Leetcode.runtimeconfig.json
+D:\WORK\C#學習\基礎\Leetcode\Leetcode\bin\Debug\net8.0\Leetcode.dll
+D:\WORK\C#學習\基礎\Leetcode\Leetcode\bin\Debug\net8.0\Leetcode.pdb
+D:\WORK\C#學習\基礎\Leetcode\Leetcode\obj\Debug\net8.0\Leetcode.dll
+D:\WORK\C#學習\基礎\Leetcode\Leetcode\obj\Debug\net8.0\refint\Leetcode.dll
+D:\WORK\C#學習\基礎\Leetcode\Leetcode\obj\Debug\net8.0\Leetcode.pdb
+D:\WORK\C#學習\基礎\Leetcode\Leetcode\obj\Debug\net8.0\Leetcode.genruntimeconfig.cache
+D:\WORK\C#學習\基礎\Leetcode\Leetcode\obj\Debug\net8.0\ref\Leetcode.dll

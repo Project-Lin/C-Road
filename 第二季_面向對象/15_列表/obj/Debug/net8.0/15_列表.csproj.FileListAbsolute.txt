@@ -1,0 +1,14 @@
+D:\WORK\C#學習\基礎\第二季_面向對象\15_列表\bin\Debug\net8.0\15_列表.exe
+D:\WORK\C#學習\基礎\第二季_面向對象\15_列表\bin\Debug\net8.0\15_列表.deps.json
+D:\WORK\C#學習\基礎\第二季_面向對象\15_列表\bin\Debug\net8.0\15_列表.runtimeconfig.json
+D:\WORK\C#學習\基礎\第二季_面向對象\15_列表\bin\Debug\net8.0\15_列表.dll
+D:\WORK\C#學習\基礎\第二季_面向對象\15_列表\bin\Debug\net8.0\15_列表.pdb
+D:\WORK\C#學習\基礎\第二季_面向對象\15_列表\obj\Debug\net8.0\15_列表.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\C#學習\基礎\第二季_面向對象\15_列表\obj\Debug\net8.0\15_列表.AssemblyInfoInputs.cache
+D:\WORK\C#學習\基礎\第二季_面向對象\15_列表\obj\Debug\net8.0\15_列表.AssemblyInfo.cs
+D:\WORK\C#學習\基礎\第二季_面向對象\15_列表\obj\Debug\net8.0\15_列表.csproj.CoreCompileInputs.cache
+D:\WORK\C#學習\基礎\第二季_面向對象\15_列表\obj\Debug\net8.0\15_列表.dll
+D:\WORK\C#學習\基礎\第二季_面向對象\15_列表\obj\Debug\net8.0\refint\15_列表.dll
+D:\WORK\C#學習\基礎\第二季_面向對象\15_列表\obj\Debug\net8.0\15_列表.pdb
+D:\WORK\C#學習\基礎\第二季_面向對象\15_列表\obj\Debug\net8.0\15_列表.genruntimeconfig.cache
+D:\WORK\C#學習\基礎\第二季_面向對象\15_列表\obj\Debug\net8.0\ref\15_列表.dll

@@ -1,0 +1,14 @@
+D:\WORK\C#學習\基礎\第二季_面向對象\18_ToString\bin\Debug\net8.0\18_ToString.exe
+D:\WORK\C#學習\基礎\第二季_面向對象\18_ToString\bin\Debug\net8.0\18_ToString.deps.json
+D:\WORK\C#學習\基礎\第二季_面向對象\18_ToString\bin\Debug\net8.0\18_ToString.runtimeconfig.json
+D:\WORK\C#學習\基礎\第二季_面向對象\18_ToString\bin\Debug\net8.0\18_ToString.dll
+D:\WORK\C#學習\基礎\第二季_面向對象\18_ToString\bin\Debug\net8.0\18_ToString.pdb
+D:\WORK\C#學習\基礎\第二季_面向對象\18_ToString\obj\Debug\net8.0\18_ToString.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\C#學習\基礎\第二季_面向對象\18_ToString\obj\Debug\net8.0\18_ToString.AssemblyInfoInputs.cache
+D:\WORK\C#學習\基礎\第二季_面向對象\18_ToString\obj\Debug\net8.0\18_ToString.AssemblyInfo.cs
+D:\WORK\C#學習\基礎\第二季_面向對象\18_ToString\obj\Debug\net8.0\18_ToString.csproj.CoreCompileInputs.cache
+D:\WORK\C#學習\基礎\第二季_面向對象\18_ToString\obj\Debug\net8.0\18_ToString.dll
+D:\WORK\C#學習\基礎\第二季_面向對象\18_ToString\obj\Debug\net8.0\refint\18_ToString.dll
+D:\WORK\C#學習\基礎\第二季_面向對象\18_ToString\obj\Debug\net8.0\18_ToString.pdb
+D:\WORK\C#學習\基礎\第二季_面向對象\18_ToString\obj\Debug\net8.0\18_ToString.genruntimeconfig.cache
+D:\WORK\C#學習\基礎\第二季_面向對象\18_ToString\obj\Debug\net8.0\ref\18_ToString.dll

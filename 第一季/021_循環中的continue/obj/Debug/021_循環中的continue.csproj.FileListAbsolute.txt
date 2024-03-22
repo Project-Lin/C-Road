@@ -1,0 +1,6 @@
+D:\WORK\C#學習\基礎\ConsoleApp1\021_循環中的continue\bin\Debug\021_循環中的continue.exe.config
+D:\WORK\C#學習\基礎\ConsoleApp1\021_循環中的continue\bin\Debug\021_循環中的continue.exe
+D:\WORK\C#學習\基礎\ConsoleApp1\021_循環中的continue\bin\Debug\021_循環中的continue.pdb
+D:\WORK\C#學習\基礎\ConsoleApp1\021_循環中的continue\obj\Debug\021_循環中的continue.csproj.CoreCompileInputs.cache
+D:\WORK\C#學習\基礎\ConsoleApp1\021_循環中的continue\obj\Debug\021_循環中的continue.exe
+D:\WORK\C#學習\基礎\ConsoleApp1\021_循環中的continue\obj\Debug\021_循環中的continue.pdb

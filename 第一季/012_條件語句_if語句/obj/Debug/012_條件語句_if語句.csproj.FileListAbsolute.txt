@@ -1,0 +1,7 @@
+D:\WORK\C#學習\基礎\ConsoleApp1\012_條件語句_if語句\bin\Debug\012_條件語句_if語句.exe.config
+D:\WORK\C#學習\基礎\ConsoleApp1\012_條件語句_if語句\bin\Debug\012_條件語句_if語句.exe
+D:\WORK\C#學習\基礎\ConsoleApp1\012_條件語句_if語句\bin\Debug\012_條件語句_if語句.pdb
+D:\WORK\C#學習\基礎\ConsoleApp1\012_條件語句_if語句\obj\Debug\012_條件語句_if語句.csproj.AssemblyReference.cache
+D:\WORK\C#學習\基礎\ConsoleApp1\012_條件語句_if語句\obj\Debug\012_條件語句_if語句.csproj.CoreCompileInputs.cache
+D:\WORK\C#學習\基礎\ConsoleApp1\012_條件語句_if語句\obj\Debug\012_條件語句_if語句.exe
+D:\WORK\C#學習\基礎\ConsoleApp1\012_條件語句_if語句\obj\Debug\012_條件語句_if語句.pdb

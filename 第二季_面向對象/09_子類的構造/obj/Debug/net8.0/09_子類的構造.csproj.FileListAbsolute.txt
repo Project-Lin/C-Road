@@ -1,0 +1,14 @@
+D:\WORK\C#學習\基礎\第二季_面向對象\09_子類的構造\bin\Debug\net8.0\09_子類的構造.exe
+D:\WORK\C#學習\基礎\第二季_面向對象\09_子類的構造\bin\Debug\net8.0\09_子類的構造.deps.json
+D:\WORK\C#學習\基礎\第二季_面向對象\09_子類的構造\bin\Debug\net8.0\09_子類的構造.runtimeconfig.json
+D:\WORK\C#學習\基礎\第二季_面向對象\09_子類的構造\bin\Debug\net8.0\09_子類的構造.dll
+D:\WORK\C#學習\基礎\第二季_面向對象\09_子類的構造\bin\Debug\net8.0\09_子類的構造.pdb
+D:\WORK\C#學習\基礎\第二季_面向對象\09_子類的構造\obj\Debug\net8.0\09_子類的構造.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\C#學習\基礎\第二季_面向對象\09_子類的構造\obj\Debug\net8.0\09_子類的構造.AssemblyInfoInputs.cache
+D:\WORK\C#學習\基礎\第二季_面向對象\09_子類的構造\obj\Debug\net8.0\09_子類的構造.AssemblyInfo.cs
+D:\WORK\C#學習\基礎\第二季_面向對象\09_子類的構造\obj\Debug\net8.0\09_子類的構造.csproj.CoreCompileInputs.cache
+D:\WORK\C#學習\基礎\第二季_面向對象\09_子類的構造\obj\Debug\net8.0\09_子類的構造.dll
+D:\WORK\C#學習\基礎\第二季_面向對象\09_子類的構造\obj\Debug\net8.0\refint\09_子類的構造.dll
+D:\WORK\C#學習\基礎\第二季_面向對象\09_子類的構造\obj\Debug\net8.0\09_子類的構造.pdb
+D:\WORK\C#學習\基礎\第二季_面向對象\09_子類的構造\obj\Debug\net8.0\09_子類的構造.genruntimeconfig.cache
+D:\WORK\C#學習\基礎\第二季_面向對象\09_子類的構造\obj\Debug\net8.0\ref\09_子類的構造.dll

@@ -1,0 +1,14 @@
+D:\WORK\C#學習\基礎\第二季_面向對象\01_調適和錯誤排查(debug)\bin\Debug\net8.0\01_調適和錯誤排查(debug).exe
+D:\WORK\C#學習\基礎\第二季_面向對象\01_調適和錯誤排查(debug)\bin\Debug\net8.0\01_調適和錯誤排查(debug).deps.json
+D:\WORK\C#學習\基礎\第二季_面向對象\01_調適和錯誤排查(debug)\bin\Debug\net8.0\01_調適和錯誤排查(debug).runtimeconfig.json
+D:\WORK\C#學習\基礎\第二季_面向對象\01_調適和錯誤排查(debug)\bin\Debug\net8.0\01_調適和錯誤排查(debug).dll
+D:\WORK\C#學習\基礎\第二季_面向對象\01_調適和錯誤排查(debug)\bin\Debug\net8.0\01_調適和錯誤排查(debug).pdb
+D:\WORK\C#學習\基礎\第二季_面向對象\01_調適和錯誤排查(debug)\obj\Debug\net8.0\01_調適和錯誤排查(debug).GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\C#學習\基礎\第二季_面向對象\01_調適和錯誤排查(debug)\obj\Debug\net8.0\01_調適和錯誤排查(debug).AssemblyInfoInputs.cache
+D:\WORK\C#學習\基礎\第二季_面向對象\01_調適和錯誤排查(debug)\obj\Debug\net8.0\01_調適和錯誤排查(debug).AssemblyInfo.cs
+D:\WORK\C#學習\基礎\第二季_面向對象\01_調適和錯誤排查(debug)\obj\Debug\net8.0\01_調適和錯誤排查(debug).csproj.CoreCompileInputs.cache
+D:\WORK\C#學習\基礎\第二季_面向對象\01_調適和錯誤排查(debug)\obj\Debug\net8.0\01_調適和錯誤排查(debug).dll
+D:\WORK\C#學習\基礎\第二季_面向對象\01_調適和錯誤排查(debug)\obj\Debug\net8.0\refint\01_調適和錯誤排查(debug).dll
+D:\WORK\C#學習\基礎\第二季_面向對象\01_調適和錯誤排查(debug)\obj\Debug\net8.0\01_調適和錯誤排查(debug).pdb
+D:\WORK\C#學習\基礎\第二季_面向對象\01_調適和錯誤排查(debug)\obj\Debug\net8.0\01_調適和錯誤排查(debug).genruntimeconfig.cache
+D:\WORK\C#學習\基礎\第二季_面向對象\01_調適和錯誤排查(debug)\obj\Debug\net8.0\ref\01_調適和錯誤排查(debug).dll

@@ -1,0 +1,14 @@
+D:\WORK\C#學習\基礎\第二季_面向對象\17_泛型\bin\Debug\net8.0\17_泛型.exe
+D:\WORK\C#學習\基礎\第二季_面向對象\17_泛型\bin\Debug\net8.0\17_泛型.deps.json
+D:\WORK\C#學習\基礎\第二季_面向對象\17_泛型\bin\Debug\net8.0\17_泛型.runtimeconfig.json
+D:\WORK\C#學習\基礎\第二季_面向對象\17_泛型\bin\Debug\net8.0\17_泛型.dll
+D:\WORK\C#學習\基礎\第二季_面向對象\17_泛型\bin\Debug\net8.0\17_泛型.pdb
+D:\WORK\C#學習\基礎\第二季_面向對象\17_泛型\obj\Debug\net8.0\17_泛型.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\C#學習\基礎\第二季_面向對象\17_泛型\obj\Debug\net8.0\17_泛型.AssemblyInfoInputs.cache
+D:\WORK\C#學習\基礎\第二季_面向對象\17_泛型\obj\Debug\net8.0\17_泛型.AssemblyInfo.cs
+D:\WORK\C#學習\基礎\第二季_面向對象\17_泛型\obj\Debug\net8.0\17_泛型.csproj.CoreCompileInputs.cache
+D:\WORK\C#學習\基礎\第二季_面向對象\17_泛型\obj\Debug\net8.0\17_泛型.dll
+D:\WORK\C#學習\基礎\第二季_面向對象\17_泛型\obj\Debug\net8.0\refint\17_泛型.dll
+D:\WORK\C#學習\基礎\第二季_面向對象\17_泛型\obj\Debug\net8.0\17_泛型.pdb
+D:\WORK\C#學習\基礎\第二季_面向對象\17_泛型\obj\Debug\net8.0\17_泛型.genruntimeconfig.cache
+D:\WORK\C#學習\基礎\第二季_面向對象\17_泛型\obj\Debug\net8.0\ref\17_泛型.dll

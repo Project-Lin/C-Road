@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WORK\\C#\u5B78\u7FD2\\\u57FA\u790E\\Leetcode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2D5490-1BE4-4110-B216-2D9E6EE33962}|Leetcode\\Leetcode.csproj|d:\\work\\c#\u5B78\u7FD2\\\u57FA\u790E\\leetcode\\leetcode\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2D5490-1BE4-4110-B216-2D9E6EE33962}|Leetcode\\Leetcode.csproj|solutionrelative:leetcode\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2D5490-1BE4-4110-B216-2D9E6EE33962}|Leetcode\\Leetcode.csproj|d:\\work\\c#\u5B78\u7FD2\\\u57FA\u790E\\leetcode\\leetcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2D5490-1BE4-4110-B216-2D9E6EE33962}|Leetcode\\Leetcode.csproj|solutionrelative:leetcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\WORK\\C#\u5B78\u7FD2\\\u57FA\u790E\\Leetcode\\Leetcode\\Class1.cs",
+              "RelativeDocumentMoniker": "Leetcode\\Class1.cs",
+              "ToolTip": "D:\\WORK\\C#\u5B78\u7FD2\\\u57FA\u790E\\Leetcode\\Leetcode\\Class1.cs",
+              "RelativeToolTip": "Leetcode\\Class1.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA7wBUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:36:10.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WORK\\C#\u5B78\u7FD2\\\u57FA\u790E\\Leetcode\\Leetcode\\Program.cs",
+              "RelativeDocumentMoniker": "Leetcode\\Program.cs",
+              "ToolTip": "D:\\WORK\\C#\u5B78\u7FD2\\\u57FA\u790E\\Leetcode\\Leetcode\\Program.cs",
+              "RelativeToolTip": "Leetcode\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:03:28.177Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

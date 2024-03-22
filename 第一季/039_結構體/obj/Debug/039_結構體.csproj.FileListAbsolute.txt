@@ -1,0 +1,7 @@
+D:\WORK\C#學習\基礎\ConsoleApp1\039_結構體\obj\Debug\039_結構體.csproj.CoreCompileInputs.cache
+D:\WORK\C#學習\基礎\ConsoleApp1\039_結構體\bin\Debug\039_結構體.exe.config
+D:\WORK\C#學習\基礎\ConsoleApp1\039_結構體\bin\Debug\039_結構體.exe
+D:\WORK\C#學習\基礎\ConsoleApp1\039_結構體\bin\Debug\039_結構體.pdb
+D:\WORK\C#學習\基礎\ConsoleApp1\039_結構體\obj\Debug\039_結構體.exe
+D:\WORK\C#學習\基礎\ConsoleApp1\039_結構體\obj\Debug\039_結構體.pdb
+D:\WORK\C#學習\基礎\ConsoleApp1\039_結構體\obj\Debug\039_結構體.csproj.AssemblyReference.cache

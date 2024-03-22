@@ -1,0 +1,7 @@
+D:\WORK\C#學習\基礎\ConsoleApp1\011_練習題\bin\Debug\011_練習題.exe.config
+D:\WORK\C#學習\基礎\ConsoleApp1\011_練習題\bin\Debug\011_練習題.exe
+D:\WORK\C#學習\基礎\ConsoleApp1\011_練習題\bin\Debug\011_練習題.pdb
+D:\WORK\C#學習\基礎\ConsoleApp1\011_練習題\obj\Debug\011_練習題.csproj.CoreCompileInputs.cache
+D:\WORK\C#學習\基礎\ConsoleApp1\011_練習題\obj\Debug\011_練習題.exe
+D:\WORK\C#學習\基礎\ConsoleApp1\011_練習題\obj\Debug\011_練習題.pdb
+D:\WORK\C#學習\基礎\ConsoleApp1\011_練習題\obj\Debug\011_練習題.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\WORK\C#學習\基礎\ConsoleApp1\010_運算符的優先級\bin\Debug\010_運算符的優先級.exe.config
+D:\WORK\C#學習\基礎\ConsoleApp1\010_運算符的優先級\bin\Debug\010_運算符的優先級.exe
+D:\WORK\C#學習\基礎\ConsoleApp1\010_運算符的優先級\bin\Debug\010_運算符的優先級.pdb
+D:\WORK\C#學習\基礎\ConsoleApp1\010_運算符的優先級\obj\Debug\010_運算符的優先級.csproj.AssemblyReference.cache
+D:\WORK\C#學習\基礎\ConsoleApp1\010_運算符的優先級\obj\Debug\010_運算符的優先級.csproj.CoreCompileInputs.cache
+D:\WORK\C#學習\基礎\ConsoleApp1\010_運算符的優先級\obj\Debug\010_運算符的優先級.exe
+D:\WORK\C#學習\基礎\ConsoleApp1\010_運算符的優先級\obj\Debug\010_運算符的優先級.pdb

@@ -1,0 +1,6 @@
+D:\WORK\C#學習\基礎\ConsoleApp1\023_猜數字\bin\Debug\023_猜數字.exe.config
+D:\WORK\C#學習\基礎\ConsoleApp1\023_猜數字\bin\Debug\023_猜數字.exe
+D:\WORK\C#學習\基礎\ConsoleApp1\023_猜數字\bin\Debug\023_猜數字.pdb
+D:\WORK\C#學習\基礎\ConsoleApp1\023_猜數字\obj\Debug\023_猜數字.csproj.CoreCompileInputs.cache
+D:\WORK\C#學習\基礎\ConsoleApp1\023_猜數字\obj\Debug\023_猜數字.exe
+D:\WORK\C#學習\基礎\ConsoleApp1\023_猜數字\obj\Debug\023_猜數字.pdb
