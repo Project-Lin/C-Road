@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PDy6Rj1cwAxmHjoZcJyiOSTX2PV7D+otwN/OtolC9t6pulJk8jEppET60FLV/R8fjZs7H0GzTUSfLgJfxnQKWw==",
+  "success": true,
+  "projectFilePath": "E:\\CS 渲染输出\\Unity\\Unity 1144 C#编程-第三季-坦克大战-宇宙最简单2021最新版\\素材\\源码工程\\第三季-坦克大战\\01-基础知识-类型换换\\01-基础知识-类型换换.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\souke\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

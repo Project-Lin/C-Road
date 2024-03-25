@@ -1,0 +1,10 @@
+D:\WORK\C#學習\基礎\C#Road\第三季_坦克大戰\03_坦克大戰\bin\Debug\03_坦克大戰.exe.config
+D:\WORK\C#學習\基礎\C#Road\第三季_坦克大戰\03_坦克大戰\bin\Debug\03_坦克大戰.exe
+D:\WORK\C#學習\基礎\C#Road\第三季_坦克大戰\03_坦克大戰\bin\Debug\03_坦克大戰.pdb
+D:\WORK\C#學習\基礎\C#Road\第三季_坦克大戰\03_坦克大戰\obj\Debug\03_坦克大戰.csproj.AssemblyReference.cache
+D:\WORK\C#學習\基礎\C#Road\第三季_坦克大戰\03_坦克大戰\obj\Debug\_03_坦克大戰.Properties.Resources.resources
+D:\WORK\C#學習\基礎\C#Road\第三季_坦克大戰\03_坦克大戰\obj\Debug\03_坦克大戰.csproj.GenerateResource.cache
+D:\WORK\C#學習\基礎\C#Road\第三季_坦克大戰\03_坦克大戰\obj\Debug\03_坦克大戰.csproj.CoreCompileInputs.cache
+D:\WORK\C#學習\基礎\C#Road\第三季_坦克大戰\03_坦克大戰\obj\Debug\03_坦克大戰.exe
+D:\WORK\C#學習\基礎\C#Road\第三季_坦克大戰\03_坦克大戰\obj\Debug\03_坦克大戰.pdb
+D:\WORK\C#學習\基礎\C#Road\第三季_坦克大戰\03_坦克大戰\obj\Debug\_03_坦克大戰.Form1.resources
