@@ -11,6 +11,10 @@ namespace _04_坦克大戰_正式
 {
     internal class EnemyTank: Movething
     {
+        public int ChangeDirectionTime { get; set; }
+        private int changeDirectionCount = 0;
+        public int AttackTime { get; set; }
+        private int attackCount = 0;
         private static Random r = new Random();
         public  EnemyTank(int x, int y, int speed,Bitmap bmpDown, Bitmap bmpUp, Bitmap bmpRight, Bitmap bmpLeft)
         {
@@ -25,13 +29,17 @@ namespace _04_坦克大戰_正式
 
             this.direction = Direction.Down;
 
+            AttackTime = 60;
+            ChangeDirectionTime = 70;
         }
 
         public override void Update()
         {
             MoveCheck();
             Move();
+            AutoChangeDirection();
             base.Update();
+            AttackCheck();
         }
 
        
@@ -103,6 +111,18 @@ namespace _04_坦克大戰_正式
 
         }
 
+        public void AutoChangeDirection()
+        {
+            if (changeDirectionCount < ChangeDirectionTime)
+            {
+                changeDirectionCount++;
+            }
+            else
+            {
+                ChangeDirection();
+                changeDirectionCount = 0;
+            }
+        }
         private void ChangeDirection()
         {
             while (true)
@@ -146,6 +166,46 @@ namespace _04_坦克大戰_正式
                 default:
                     break;
             }
+        }
+
+        private void AttackCheck()
+        {
+            if (attackCount < AttackTime)
+            {
+                attackCount++;
+            }
+            else
+            {
+                Attack();
+                attackCount = 0;
+            }
+        }
+
+        private void Attack()
+        {
+            int x = this.X;
+            int y = this.Y;
+            switch (direction)
+            {
+                case Direction.Up:
+                    x += Width / 2;
+                    break;
+                case Direction.Down:
+                    x += Width / 2;
+                    y += Height;
+                    break;
+                case Direction.Left:
+                    y += Height / 2;
+                    break;
+                case Direction.Right:
+                    x += Width;
+                    y += Height / 2;
+                    break;
+                default:
+                    break;
+            }
+            GameObjectManager.CreatBullet(x, y, BulletType.Enemy, this.direction);
+
         }
     }
 }

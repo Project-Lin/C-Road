@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -13,9 +14,11 @@ namespace _04_坦克大戰_正式
     internal class MyTank: Movething
     {
         public bool IsMove { get; set; }
+        public int HP { get; set; }
         public MyTank(int x,int y,int speed)
         {
             IsMove = false;
+            HP = 4;
             this.X = x;
             this.Y = y;
             this.Speed = speed;
@@ -51,9 +54,41 @@ namespace _04_坦克大戰_正式
                     direction = Direction.Right;
                     IsMove = true;
                     break;
+                case Keys.Space:
+                    //發射子彈
+                    Attack();
+                    break;
                 default:
                     break;
             }
+        }
+
+        private void Attack()
+        {
+            SoundManager.PlayStart(5);
+            int x = this.X;
+            int y = this.Y;
+            switch (direction)
+            {
+                case Direction.Up:
+                    x+=Width/2;
+                    break;
+                case Direction.Down:
+                    x += Width / 2;
+                    y += Height;
+                    break;
+                case Direction.Left:
+                    y += Height / 2;
+                    break;
+                case Direction.Right:
+                    x += Width;
+                    y += Height / 2;
+                    break;
+                default:
+                    break;
+            }
+            GameObjectManager.CreatBullet(x, y, BulletType.My, this.direction);
+            
         }
 
         public void KeyUp(KeyEventArgs args)
@@ -179,5 +214,16 @@ namespace _04_坦克大戰_正式
                     break;
             }
         }
+
+        public static void TakeDamage(MyTank myTank)
+        {
+            myTank.HP--;
+            if (myTank.HP <= 0)
+            {
+                myTank.X = 5 * 30;
+                myTank.Y = 14 * 30;
+                myTank.HP = 4;
+            }
+        }   
     }
 }

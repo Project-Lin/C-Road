@@ -1,4 +1,5 @@
 ﻿using System;
+using System.CodeDom.Compiler;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
@@ -15,8 +16,11 @@ namespace _04_坦克大戰_正式
         private static List<NotMovething> wallList = new List<NotMovething>();
         private static List<NotMovething> steelList = new List<NotMovething>();
         private static List<EnemyTank> tankList = new List<EnemyTank>();
+        private static List<Bullet> bulletList = new List<Bullet>();
+        private static List<Explosion> explosionList = new List<Explosion>();
         private static NotMovething Boss = new NotMovething(0, 0, Resources.Boss);
         private static MyTank myTank ;
+        private static Object _bulletLock = new Object();
 
 
         private static int enemyBornTime = 60;
@@ -46,6 +50,21 @@ namespace _04_坦克大戰_正式
                 tank.Update();
             }
 
+            
+            CheckAndDestoryBullet();
+            foreach (Bullet bullet in bulletList)
+            {
+                bullet.Update();
+            }
+
+            DestoryExplosion();
+            foreach (Explosion exp in explosionList)
+            {
+                exp.Update();
+            }
+
+
+
             Boss.Update();
 
             myTank.Update();
@@ -53,11 +72,68 @@ namespace _04_坦克大戰_正式
             EnemyBron();
         }
 
+        public static void CreatBullet(int x,int y,BulletType bulletType, Direction direction)
+        {
+           Bullet bullet = new Bullet(x, y, 5, direction, bulletType);
+            
+           bulletList.Add(bullet);
+ 
+             
+        }
+
+        public static void CheckAndDestoryBullet()
+        {
+            List<Bullet> destoryList = new List<Bullet>();
+ 
+           foreach (Bullet bullet in bulletList)
+           {
+               if (bullet.IsDestory)
+               {
+                   destoryList.Add(bullet);
+               }
+
+
+           }
+
+           foreach (Bullet bullet in destoryList)
+           {
+                bulletList.Remove(bullet);
+           }
+
+            
+        }
+
+        public static void CreateExplosion(int x,int y)
+        {
+            Explosion explosion = new Explosion(x, y);
+            explosionList.Add(explosion);
+        }
+
+        public static void DestoryExplosion()
+        {
+            List<Explosion> destoryList = new List<Explosion>();
+
+            foreach (Explosion explosion in explosionList)
+            {
+                if (explosion.IsDestory)
+                {
+                    destoryList.Add(explosion);
+                }
+            }
+
+            foreach (Explosion explosion in destoryList)
+            {
+                explosionList.Remove(explosion);
+            }
+
+        }
         private static void EnemyBron()
         {
+            
             enemyBornCount++;
             if(enemyBornCount < enemyBornTime) return;
 
+            SoundManager.PlayStart(2);
             //隨機生成一個0~2的數字
             Random r = new Random();
             int index = r.Next(0, 3);
@@ -82,6 +158,10 @@ namespace _04_坦克大戰_正式
             
 
             enemyBornCount = 0;
+        }
+        public static void DestoryEnemyTank(EnemyTank tank)
+        {
+            tankList.Remove(tank);
         }
 
         private static void CreateEnemyTank1(int x,int y)
@@ -110,7 +190,7 @@ namespace _04_坦克大戰_正式
 
         public static NotMovething IsCollidedWall(Rectangle rt)
         {
-            foreach (NotMovething wall in steelList)
+            foreach (NotMovething wall in wallList)
             {
                 //1.取得每一個牆的矩形
                 //2.判斷是否與傳入的矩形相交
@@ -127,7 +207,7 @@ namespace _04_坦克大戰_正式
 
         public static NotMovething IsCollidedSteel(Rectangle rt)
         {
-            foreach (NotMovething wall in wallList)
+            foreach (NotMovething wall in steelList)
             {
                 //1.取得每一個牆的矩形
                 //2.判斷是否與傳入的矩形相交
@@ -148,24 +228,36 @@ namespace _04_坦克大戰_正式
 
         }
 
-        //public static void DrawMap()
-        //{
-        //    foreach(NotMovething wall in wallList)
-        //    {
-        //        wall.DrawSelf();
-        //    }
-        //    foreach (NotMovething steel in steelList)
-        //    {
-        //        steel.DrawSelf();
-        //    }
+        public static EnemyTank IsCollidedEnemy(Rectangle rt)
+        {
+            foreach (EnemyTank tank in tankList)
+            {
+                
+                if (tank.GetRectangle().IntersectsWith(rt))
+                {
+                    return tank;
+                }
 
-        //        Boss.DrawSelf();
 
-        //}
-        //public static void DrawMyTank()
-        //{
-        //    myTank.DrawSelf();
-        //}
+            }
+            return null;
+        }
+
+        public static MyTank IsCollidedMyTank(Rectangle rt)
+        {
+
+
+                if (myTank.GetRectangle().IntersectsWith(rt))
+                {
+                    return myTank;
+
+                }
+
+
+            return null;
+        }
+
+
 
         public static void CreateMap()
         {
@@ -228,6 +320,11 @@ namespace _04_坦克大戰_正式
                 wallList.Add(wall2);
             }
 
+        }
+
+        public static void DestoryWall(NotMovething wall)
+        {
+            wallList.Remove(wall);
         }
         private static void CreateBoss(int x, int y)
         {
