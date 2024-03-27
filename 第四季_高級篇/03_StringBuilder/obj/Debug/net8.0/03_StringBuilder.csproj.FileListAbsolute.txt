@@ -1,0 +1,15 @@
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\03_StringBuilder\bin\Debug\net8.0\03_StringBuilder.exe
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\03_StringBuilder\bin\Debug\net8.0\03_StringBuilder.deps.json
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\03_StringBuilder\bin\Debug\net8.0\03_StringBuilder.runtimeconfig.json
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\03_StringBuilder\bin\Debug\net8.0\03_StringBuilder.dll
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\03_StringBuilder\bin\Debug\net8.0\03_StringBuilder.pdb
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\03_StringBuilder\obj\Debug\net8.0\03_StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\03_StringBuilder\obj\Debug\net8.0\03_StringBuilder.AssemblyInfoInputs.cache
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\03_StringBuilder\obj\Debug\net8.0\03_StringBuilder.AssemblyInfo.cs
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\03_StringBuilder\obj\Debug\net8.0\03_StringBuilder.csproj.CoreCompileInputs.cache
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\03_StringBuilder\obj\Debug\net8.0\03_StringBuilder.sourcelink.json
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\03_StringBuilder\obj\Debug\net8.0\03_StringBuilder.dll
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\03_StringBuilder\obj\Debug\net8.0\refint\03_StringBuilder.dll
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\03_StringBuilder\obj\Debug\net8.0\03_StringBuilder.pdb
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\03_StringBuilder\obj\Debug\net8.0\03_StringBuilder.genruntimeconfig.cache
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\03_StringBuilder\obj\Debug\net8.0\ref\03_StringBuilder.dll

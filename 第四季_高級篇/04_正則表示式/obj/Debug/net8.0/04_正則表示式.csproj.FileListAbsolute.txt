@@ -1,0 +1,15 @@
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\04_正則表示式\bin\Debug\net8.0\04_正則表示式.exe
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\04_正則表示式\bin\Debug\net8.0\04_正則表示式.deps.json
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\04_正則表示式\bin\Debug\net8.0\04_正則表示式.runtimeconfig.json
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\04_正則表示式\bin\Debug\net8.0\04_正則表示式.dll
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\04_正則表示式\bin\Debug\net8.0\04_正則表示式.pdb
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\04_正則表示式\obj\Debug\net8.0\04_正則表示式.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\04_正則表示式\obj\Debug\net8.0\04_正則表示式.AssemblyInfoInputs.cache
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\04_正則表示式\obj\Debug\net8.0\04_正則表示式.AssemblyInfo.cs
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\04_正則表示式\obj\Debug\net8.0\04_正則表示式.csproj.CoreCompileInputs.cache
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\04_正則表示式\obj\Debug\net8.0\04_正則表示式.sourcelink.json
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\04_正則表示式\obj\Debug\net8.0\04_正則表示式.dll
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\04_正則表示式\obj\Debug\net8.0\refint\04_正則表示式.dll
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\04_正則表示式\obj\Debug\net8.0\04_正則表示式.pdb
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\04_正則表示式\obj\Debug\net8.0\04_正則表示式.genruntimeconfig.cache
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\04_正則表示式\obj\Debug\net8.0\ref\04_正則表示式.dll
