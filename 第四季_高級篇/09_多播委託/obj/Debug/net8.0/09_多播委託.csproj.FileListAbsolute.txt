@@ -1,0 +1,15 @@
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\09_多播委託\bin\Debug\net8.0\09_多播委託.exe
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\09_多播委託\bin\Debug\net8.0\09_多播委託.deps.json
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\09_多播委託\bin\Debug\net8.0\09_多播委託.runtimeconfig.json
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\09_多播委託\bin\Debug\net8.0\09_多播委託.dll
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\09_多播委託\bin\Debug\net8.0\09_多播委託.pdb
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\09_多播委託\obj\Debug\net8.0\09_多播委託.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\09_多播委託\obj\Debug\net8.0\09_多播委託.AssemblyInfoInputs.cache
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\09_多播委託\obj\Debug\net8.0\09_多播委託.AssemblyInfo.cs
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\09_多播委託\obj\Debug\net8.0\09_多播委託.csproj.CoreCompileInputs.cache
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\09_多播委託\obj\Debug\net8.0\09_多播委託.sourcelink.json
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\09_多播委託\obj\Debug\net8.0\09_多播委託.dll
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\09_多播委託\obj\Debug\net8.0\refint\09_多播委託.dll
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\09_多播委託\obj\Debug\net8.0\09_多播委託.pdb
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\09_多播委託\obj\Debug\net8.0\09_多播委託.genruntimeconfig.cache
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\09_多播委託\obj\Debug\net8.0\ref\09_多播委託.dll

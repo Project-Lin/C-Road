@@ -1,0 +1,15 @@
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\20-任務\bin\Debug\net8.0\20-任務.exe
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\20-任務\bin\Debug\net8.0\20-任務.deps.json
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\20-任務\bin\Debug\net8.0\20-任務.runtimeconfig.json
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\20-任務\bin\Debug\net8.0\20-任務.dll
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\20-任務\bin\Debug\net8.0\20-任務.pdb
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\20-任務\obj\Debug\net8.0\20-任務.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\20-任務\obj\Debug\net8.0\20-任務.AssemblyInfoInputs.cache
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\20-任務\obj\Debug\net8.0\20-任務.AssemblyInfo.cs
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\20-任務\obj\Debug\net8.0\20-任務.csproj.CoreCompileInputs.cache
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\20-任務\obj\Debug\net8.0\20-任務.sourcelink.json
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\20-任務\obj\Debug\net8.0\20-任務.dll
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\20-任務\obj\Debug\net8.0\refint\20-任務.dll
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\20-任務\obj\Debug\net8.0\20-任務.pdb
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\20-任務\obj\Debug\net8.0\20-任務.genruntimeconfig.cache
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\20-任務\obj\Debug\net8.0\ref\20-任務.dll

@@ -1,0 +1,15 @@
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\07_Func委託\bin\Debug\net8.0\07_Func委託.exe
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\07_Func委託\bin\Debug\net8.0\07_Func委託.deps.json
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\07_Func委託\bin\Debug\net8.0\07_Func委託.runtimeconfig.json
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\07_Func委託\bin\Debug\net8.0\07_Func委託.dll
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\07_Func委託\bin\Debug\net8.0\07_Func委託.pdb
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\07_Func委託\obj\Debug\net8.0\07_Func委託.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\07_Func委託\obj\Debug\net8.0\07_Func委託.AssemblyInfoInputs.cache
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\07_Func委託\obj\Debug\net8.0\07_Func委託.AssemblyInfo.cs
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\07_Func委託\obj\Debug\net8.0\07_Func委託.csproj.CoreCompileInputs.cache
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\07_Func委託\obj\Debug\net8.0\07_Func委託.sourcelink.json
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\07_Func委託\obj\Debug\net8.0\07_Func委託.dll
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\07_Func委託\obj\Debug\net8.0\refint\07_Func委託.dll
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\07_Func委託\obj\Debug\net8.0\07_Func委託.pdb
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\07_Func委託\obj\Debug\net8.0\07_Func委託.genruntimeconfig.cache
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\07_Func委託\obj\Debug\net8.0\ref\07_Func委託.dll

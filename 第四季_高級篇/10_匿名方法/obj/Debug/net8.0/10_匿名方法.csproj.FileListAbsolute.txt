@@ -1,0 +1,15 @@
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\10_匿名方法\bin\Debug\net8.0\10_匿名方法.exe
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\10_匿名方法\bin\Debug\net8.0\10_匿名方法.deps.json
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\10_匿名方法\bin\Debug\net8.0\10_匿名方法.runtimeconfig.json
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\10_匿名方法\bin\Debug\net8.0\10_匿名方法.dll
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\10_匿名方法\bin\Debug\net8.0\10_匿名方法.pdb
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\10_匿名方法\obj\Debug\net8.0\10_匿名方法.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\10_匿名方法\obj\Debug\net8.0\10_匿名方法.AssemblyInfoInputs.cache
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\10_匿名方法\obj\Debug\net8.0\10_匿名方法.AssemblyInfo.cs
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\10_匿名方法\obj\Debug\net8.0\10_匿名方法.csproj.CoreCompileInputs.cache
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\10_匿名方法\obj\Debug\net8.0\10_匿名方法.sourcelink.json
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\10_匿名方法\obj\Debug\net8.0\10_匿名方法.dll
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\10_匿名方法\obj\Debug\net8.0\refint\10_匿名方法.dll
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\10_匿名方法\obj\Debug\net8.0\10_匿名方法.pdb
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\10_匿名方法\obj\Debug\net8.0\10_匿名方法.genruntimeconfig.cache
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\10_匿名方法\obj\Debug\net8.0\ref\10_匿名方法.dll

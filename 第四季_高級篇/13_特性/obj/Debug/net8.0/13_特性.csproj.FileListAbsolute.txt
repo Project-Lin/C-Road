@@ -1,0 +1,15 @@
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\13_特性\bin\Debug\net8.0\13_特性.exe
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\13_特性\bin\Debug\net8.0\13_特性.deps.json
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\13_特性\bin\Debug\net8.0\13_特性.runtimeconfig.json
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\13_特性\bin\Debug\net8.0\13_特性.dll
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\13_特性\bin\Debug\net8.0\13_特性.pdb
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\13_特性\obj\Debug\net8.0\13_特性.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\13_特性\obj\Debug\net8.0\13_特性.AssemblyInfoInputs.cache
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\13_特性\obj\Debug\net8.0\13_特性.AssemblyInfo.cs
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\13_特性\obj\Debug\net8.0\13_特性.csproj.CoreCompileInputs.cache
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\13_特性\obj\Debug\net8.0\13_特性.sourcelink.json
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\13_特性\obj\Debug\net8.0\13_特性.dll
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\13_特性\obj\Debug\net8.0\refint\13_特性.dll
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\13_特性\obj\Debug\net8.0\13_特性.pdb
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\13_特性\obj\Debug\net8.0\13_特性.genruntimeconfig.cache
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\13_特性\obj\Debug\net8.0\ref\13_特性.dll

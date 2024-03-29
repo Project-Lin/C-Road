@@ -1,0 +1,15 @@
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\22_文件操作\bin\Debug\net8.0\22_文件操作.exe
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\22_文件操作\bin\Debug\net8.0\22_文件操作.deps.json
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\22_文件操作\bin\Debug\net8.0\22_文件操作.runtimeconfig.json
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\22_文件操作\bin\Debug\net8.0\22_文件操作.dll
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\22_文件操作\bin\Debug\net8.0\22_文件操作.pdb
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\22_文件操作\obj\Debug\net8.0\22_文件操作.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\22_文件操作\obj\Debug\net8.0\22_文件操作.AssemblyInfoInputs.cache
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\22_文件操作\obj\Debug\net8.0\22_文件操作.AssemblyInfo.cs
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\22_文件操作\obj\Debug\net8.0\22_文件操作.csproj.CoreCompileInputs.cache
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\22_文件操作\obj\Debug\net8.0\22_文件操作.sourcelink.json
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\22_文件操作\obj\Debug\net8.0\22_文件操作.dll
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\22_文件操作\obj\Debug\net8.0\refint\22_文件操作.dll
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\22_文件操作\obj\Debug\net8.0\22_文件操作.pdb
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\22_文件操作\obj\Debug\net8.0\22_文件操作.genruntimeconfig.cache
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\22_文件操作\obj\Debug\net8.0\ref\22_文件操作.dll

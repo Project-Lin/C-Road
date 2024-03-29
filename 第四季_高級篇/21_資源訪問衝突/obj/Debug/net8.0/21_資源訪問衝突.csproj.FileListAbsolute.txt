@@ -1,0 +1,15 @@
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\21_資源訪問衝突\obj\Debug\net8.0\21_資源訪問衝突.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\21_資源訪問衝突\obj\Debug\net8.0\21_資源訪問衝突.AssemblyInfoInputs.cache
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\21_資源訪問衝突\obj\Debug\net8.0\21_資源訪問衝突.AssemblyInfo.cs
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\21_資源訪問衝突\obj\Debug\net8.0\21_資源訪問衝突.csproj.CoreCompileInputs.cache
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\21_資源訪問衝突\obj\Debug\net8.0\21_資源訪問衝突.sourcelink.json
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\21_資源訪問衝突\bin\Debug\net8.0\21_資源訪問衝突.exe
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\21_資源訪問衝突\bin\Debug\net8.0\21_資源訪問衝突.deps.json
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\21_資源訪問衝突\bin\Debug\net8.0\21_資源訪問衝突.runtimeconfig.json
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\21_資源訪問衝突\bin\Debug\net8.0\21_資源訪問衝突.dll
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\21_資源訪問衝突\bin\Debug\net8.0\21_資源訪問衝突.pdb
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\21_資源訪問衝突\obj\Debug\net8.0\21_資源訪問衝突.dll
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\21_資源訪問衝突\obj\Debug\net8.0\refint\21_資源訪問衝突.dll
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\21_資源訪問衝突\obj\Debug\net8.0\21_資源訪問衝突.pdb
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\21_資源訪問衝突\obj\Debug\net8.0\21_資源訪問衝突.genruntimeconfig.cache
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\21_資源訪問衝突\obj\Debug\net8.0\ref\21_資源訪問衝突.dll

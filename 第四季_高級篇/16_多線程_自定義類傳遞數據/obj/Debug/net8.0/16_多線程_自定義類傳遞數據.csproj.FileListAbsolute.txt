@@ -1,0 +1,15 @@
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\16_多線程_自定義類傳遞數據\bin\Debug\net8.0\16_多線程_自定義類傳遞數據.exe
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\16_多線程_自定義類傳遞數據\bin\Debug\net8.0\16_多線程_自定義類傳遞數據.deps.json
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\16_多線程_自定義類傳遞數據\bin\Debug\net8.0\16_多線程_自定義類傳遞數據.runtimeconfig.json
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\16_多線程_自定義類傳遞數據\bin\Debug\net8.0\16_多線程_自定義類傳遞數據.dll
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\16_多線程_自定義類傳遞數據\bin\Debug\net8.0\16_多線程_自定義類傳遞數據.pdb
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\16_多線程_自定義類傳遞數據\obj\Debug\net8.0\16_多線程_自定義類傳遞數據.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\16_多線程_自定義類傳遞數據\obj\Debug\net8.0\16_多線程_自定義類傳遞數據.AssemblyInfoInputs.cache
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\16_多線程_自定義類傳遞數據\obj\Debug\net8.0\16_多線程_自定義類傳遞數據.AssemblyInfo.cs
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\16_多線程_自定義類傳遞數據\obj\Debug\net8.0\16_多線程_自定義類傳遞數據.csproj.CoreCompileInputs.cache
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\16_多線程_自定義類傳遞數據\obj\Debug\net8.0\16_多線程_自定義類傳遞數據.sourcelink.json
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\16_多線程_自定義類傳遞數據\obj\Debug\net8.0\16_多線程_自定義類傳遞數據.dll
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\16_多線程_自定義類傳遞數據\obj\Debug\net8.0\refint\16_多線程_自定義類傳遞數據.dll
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\16_多線程_自定義類傳遞數據\obj\Debug\net8.0\16_多線程_自定義類傳遞數據.pdb
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\16_多線程_自定義類傳遞數據\obj\Debug\net8.0\16_多線程_自定義類傳遞數據.genruntimeconfig.cache
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\16_多線程_自定義類傳遞數據\obj\Debug\net8.0\ref\16_多線程_自定義類傳遞數據.dll

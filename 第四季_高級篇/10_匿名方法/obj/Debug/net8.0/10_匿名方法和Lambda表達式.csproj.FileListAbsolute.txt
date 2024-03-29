@@ -1,0 +1,15 @@
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\10_匿名方法\bin\Debug\net8.0\10_匿名方法和Lambda表達式.exe
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\10_匿名方法\bin\Debug\net8.0\10_匿名方法和Lambda表達式.deps.json
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\10_匿名方法\bin\Debug\net8.0\10_匿名方法和Lambda表達式.runtimeconfig.json
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\10_匿名方法\bin\Debug\net8.0\10_匿名方法和Lambda表達式.dll
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\10_匿名方法\bin\Debug\net8.0\10_匿名方法和Lambda表達式.pdb
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\10_匿名方法\obj\Debug\net8.0\10_匿名方法和Lambda表達式.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\10_匿名方法\obj\Debug\net8.0\10_匿名方法和Lambda表達式.AssemblyInfoInputs.cache
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\10_匿名方法\obj\Debug\net8.0\10_匿名方法和Lambda表達式.AssemblyInfo.cs
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\10_匿名方法\obj\Debug\net8.0\10_匿名方法和Lambda表達式.csproj.CoreCompileInputs.cache
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\10_匿名方法\obj\Debug\net8.0\10_匿名方法和Lambda表達式.sourcelink.json
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\10_匿名方法\obj\Debug\net8.0\10_匿名方法和Lambda表達式.dll
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\10_匿名方法\obj\Debug\net8.0\refint\10_匿名方法和Lambda表達式.dll
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\10_匿名方法\obj\Debug\net8.0\10_匿名方法和Lambda表達式.pdb
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\10_匿名方法\obj\Debug\net8.0\10_匿名方法和Lambda表達式.genruntimeconfig.cache
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\10_匿名方法\obj\Debug\net8.0\ref\10_匿名方法和Lambda表達式.dll

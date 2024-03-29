@@ -1,0 +1,15 @@
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\17_前台線程和後台線程\bin\Debug\net8.0\17_前台線程和後台線程.exe
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\17_前台線程和後台線程\bin\Debug\net8.0\17_前台線程和後台線程.deps.json
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\17_前台線程和後台線程\bin\Debug\net8.0\17_前台線程和後台線程.runtimeconfig.json
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\17_前台線程和後台線程\bin\Debug\net8.0\17_前台線程和後台線程.dll
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\17_前台線程和後台線程\bin\Debug\net8.0\17_前台線程和後台線程.pdb
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\17_前台線程和後台線程\obj\Debug\net8.0\17_前台線程和後台線程.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\17_前台線程和後台線程\obj\Debug\net8.0\17_前台線程和後台線程.AssemblyInfoInputs.cache
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\17_前台線程和後台線程\obj\Debug\net8.0\17_前台線程和後台線程.AssemblyInfo.cs
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\17_前台線程和後台線程\obj\Debug\net8.0\17_前台線程和後台線程.csproj.CoreCompileInputs.cache
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\17_前台線程和後台線程\obj\Debug\net8.0\17_前台線程和後台線程.sourcelink.json
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\17_前台線程和後台線程\obj\Debug\net8.0\17_前台線程和後台線程.dll
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\17_前台線程和後台線程\obj\Debug\net8.0\refint\17_前台線程和後台線程.dll
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\17_前台線程和後台線程\obj\Debug\net8.0\17_前台線程和後台線程.pdb
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\17_前台線程和後台線程\obj\Debug\net8.0\17_前台線程和後台線程.genruntimeconfig.cache
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\17_前台線程和後台線程\obj\Debug\net8.0\ref\17_前台線程和後台線程.dll

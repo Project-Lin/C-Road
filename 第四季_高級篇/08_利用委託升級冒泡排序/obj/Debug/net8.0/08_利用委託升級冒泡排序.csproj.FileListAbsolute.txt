@@ -1,0 +1,15 @@
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\08_利用委託升級冒泡排序\bin\Debug\net8.0\08_利用委託升級冒泡排序.exe
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\08_利用委託升級冒泡排序\bin\Debug\net8.0\08_利用委託升級冒泡排序.deps.json
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\08_利用委託升級冒泡排序\bin\Debug\net8.0\08_利用委託升級冒泡排序.runtimeconfig.json
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\08_利用委託升級冒泡排序\bin\Debug\net8.0\08_利用委託升級冒泡排序.dll
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\08_利用委託升級冒泡排序\bin\Debug\net8.0\08_利用委託升級冒泡排序.pdb
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\08_利用委託升級冒泡排序\obj\Debug\net8.0\08_利用委託升級冒泡排序.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\08_利用委託升級冒泡排序\obj\Debug\net8.0\08_利用委託升級冒泡排序.AssemblyInfoInputs.cache
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\08_利用委託升級冒泡排序\obj\Debug\net8.0\08_利用委託升級冒泡排序.AssemblyInfo.cs
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\08_利用委託升級冒泡排序\obj\Debug\net8.0\08_利用委託升級冒泡排序.csproj.CoreCompileInputs.cache
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\08_利用委託升級冒泡排序\obj\Debug\net8.0\08_利用委託升級冒泡排序.sourcelink.json
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\08_利用委託升級冒泡排序\obj\Debug\net8.0\08_利用委託升級冒泡排序.dll
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\08_利用委託升級冒泡排序\obj\Debug\net8.0\refint\08_利用委託升級冒泡排序.dll
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\08_利用委託升級冒泡排序\obj\Debug\net8.0\08_利用委託升級冒泡排序.pdb
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\08_利用委託升級冒泡排序\obj\Debug\net8.0\08_利用委託升級冒泡排序.genruntimeconfig.cache
+D:\WORK\C#學習\基礎\C#Road\第四季_高級篇\08_利用委託升級冒泡排序\obj\Debug\net8.0\ref\08_利用委託升級冒泡排序.dll
